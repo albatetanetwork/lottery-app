@@ -8,7 +8,7 @@ main div{
   width: 250px;
   height: 320px;
   margin: 19px 15px;
-  background:coral;
+  background:rgb(56, 204, 230);
 }
 img{
   width: 100%;
@@ -29,4 +29,8 @@ h1{
 
 #form{
   text-align: center;
+}
+
+body{
+  background-color: black;
 }
